@@ -44,6 +44,31 @@ To analyze Netflix's dataset and answer key business questions such as:
 - 🔞 **TV-MA** is the most common content rating on Netflix
 
 ---
+## 📸 Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+---
+
+### Top Countries Producing Netflix Content
+![Top Countries](images/top_countries.png)
+
+---
+
+### Netflix Release Trend
+![Release Trend](images/release_trend.png)
+
+---
+
+### Ratings Analysis
+![Ratings Analysis](images/ratings_analysis.png)
+
+---
+
+### Top Genres
+![Top Genres](images/top_genres.png)
+
 
 ## 📁 Project Structure
 
