@@ -62,7 +62,11 @@ To analyze Netflix's dataset and answer key business questions such as:
 
 ## Top Genres
 
-![Top Genres](images/top_genres%20(1).png)
+![Top Genres](images/top_genres%20(1).png)   
+
+## Top Directors
+
+![Top Directors](images/top_directors.png)
 
 ## 📁 Project Structure
 
