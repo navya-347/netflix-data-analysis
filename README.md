@@ -66,7 +66,11 @@ To analyze Netflix's dataset and answer key business questions such as:
 
 ## Top Directors
 
-![Top Directors](images/top_directors.png)
+![Top Directors](images/top_directors.png)  
+
+## Top Actors
+
+![Top Actors](images/top_actors.png)
 
 ## 📁 Project Structure
 
