@@ -115,4 +115,22 @@ pip install -r requirements.txt
 
 ---
 
+## 📌 Conclusion
+
+This project explored Netflix content trends using Python and data visualization techniques.
+
+Key findings include:
+- Netflix contains significantly more Movies than TV Shows.
+- The United States produces the highest amount of Netflix content.
+- Content production increased rapidly after 2015.
+- TV-MA is the most common content rating.
+- International Movies and Dramas dominate Netflix genres.
+
+This project helped develop skills in:
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python Programming
+- GitHub Project Structuring
+
 ⭐ If you found this project helpful, give it a star!
